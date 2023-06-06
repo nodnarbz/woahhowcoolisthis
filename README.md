@@ -1,3 +1,3 @@
 # woahhowcoolisthis
 
-[a link](https://b0.lol/index.html)
+[a link](https://b0.lol/static/index.html)
